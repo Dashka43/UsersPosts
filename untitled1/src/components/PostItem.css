@@ -1,0 +1,10 @@
+.post{
+    text-align: left;
+}
+.comment {
+padding-bottom: 10px;
+}
+a{
+    color: #282c34;
+    text-decoration:none;
+}
